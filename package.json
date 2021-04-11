@@ -1,0 +1,17 @@
+{
+  "name": "rvv-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.19.0",
+    "he": "^1.2.0"
+  }
+}
